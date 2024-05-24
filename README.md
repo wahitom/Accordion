@@ -1,3 +1,18 @@
+# Simple Accordion project
+
+If you've ever been to any website ever you know the satisfaction of clicking open an item and it displays
+the information you want without reloading closing any other open items on the page.
+This simple accordion project is exactly that.
+The project showcases how one can inegrate this feature into their own website for better functionality.
+
+## How to get started
+
+1. Clone the repo to your machine
+2. cd into the project
+3. Run npm install to get the necessary dependencies
+4. run npm start once npm install has finished running
+5. navigate to 'http://localhost:3000" on your website and view the page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
