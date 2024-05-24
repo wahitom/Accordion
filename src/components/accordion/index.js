@@ -44,7 +44,7 @@ export default function Accordion() {
     let copyMultiple = [...multipleSelection];
     const findIndexOfCurrentId = copyMultiple.indexOf(getCurrentId);
 
-    console.log(findIndexOfCurrentId);
+    //console.log(findIndexOfCurrentId);
 
     // vheck if clicked id is in the array
     if (findIndexOfCurrentId === -1) {
@@ -57,7 +57,7 @@ export default function Accordion() {
     setMultipleSelection(copyMultiple);
   }
 
-  console.log(selected);
+  //console.log(selected);
 
   return (
     <div className="wrapper">
